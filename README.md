@@ -5,6 +5,8 @@ illumination-invariant and contrast-invariant feature detector based on the
 coherence of Fourier phase components across multiple scales and orientations
 (Kovesi, 1999).
 
+![이미지 스펙트럼 예시](https://github.com/bemoregt/ComfyUI_PhaseCongruencyCorner/blob/main/ScrShot%2016.png)
+
 ## What is Phase Congruency Corner Detection?
 
 Classical corner detectors (Harris, Shi-Tomasi, FAST) rely on intensity
